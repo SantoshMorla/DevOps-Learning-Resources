@@ -5,7 +5,7 @@ Welcome to the DevOps Learning Resources repository. This repository is a curate
 |    NO      |Title        | Links     |
 |:-----------:|--------------|:-----------:|
 |             |       |
-|     01     | Free Linux For DevOps Engineer course | [Link](https://youtube.com/playlist?list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh)      |
+|     01     | Free Linux For DevOps Engineer course. | [Link](https://youtube.com/playlist?list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh)      |
 |      02   | Free DevOps Zero to Hero Course    | [Link](https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)  |
 |  03    | Free Cloud & DevOps Training Playlist | [Link](https://www.youtube.com/playlist?list=PL7kXAf0BmEqvDonTGKrQE-3TIXGAJEIp-)      |
 |    04     | Free DevOps With AWS Course      | [Link](https://youtube.com/playlist?list=PL7kXAf0BmEqura2P3brCGE4pIfeSh-kgw)  |
